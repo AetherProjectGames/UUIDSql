@@ -1,6 +1,0 @@
-name: UUIDSql
-main: fr.dgiproject.UUIDSql
-version: 0.2.8
-commands:
-  uuidsql:
-    description: groups of command for this plugin
